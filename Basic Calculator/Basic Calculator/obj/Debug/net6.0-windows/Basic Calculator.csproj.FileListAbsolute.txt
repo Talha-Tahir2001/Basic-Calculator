@@ -1,0 +1,17 @@
+C:\All Projs\Basic Calculator\Basic Calculator\bin\Debug\net6.0-windows\Basic Calculator.exe
+C:\All Projs\Basic Calculator\Basic Calculator\bin\Debug\net6.0-windows\Basic Calculator.deps.json
+C:\All Projs\Basic Calculator\Basic Calculator\bin\Debug\net6.0-windows\Basic Calculator.runtimeconfig.json
+C:\All Projs\Basic Calculator\Basic Calculator\bin\Debug\net6.0-windows\Basic Calculator.dll
+C:\All Projs\Basic Calculator\Basic Calculator\bin\Debug\net6.0-windows\Basic Calculator.pdb
+C:\All Projs\Basic Calculator\Basic Calculator\obj\Debug\net6.0-windows\Basic Calculator.csproj.AssemblyReference.cache
+C:\All Projs\Basic Calculator\Basic Calculator\obj\Debug\net6.0-windows\Basic_Calculator.BasicCalculator.resources
+C:\All Projs\Basic Calculator\Basic Calculator\obj\Debug\net6.0-windows\Basic Calculator.csproj.GenerateResource.cache
+C:\All Projs\Basic Calculator\Basic Calculator\obj\Debug\net6.0-windows\Basic Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\All Projs\Basic Calculator\Basic Calculator\obj\Debug\net6.0-windows\Basic Calculator.AssemblyInfoInputs.cache
+C:\All Projs\Basic Calculator\Basic Calculator\obj\Debug\net6.0-windows\Basic Calculator.AssemblyInfo.cs
+C:\All Projs\Basic Calculator\Basic Calculator\obj\Debug\net6.0-windows\Basic Calculator.csproj.CoreCompileInputs.cache
+C:\All Projs\Basic Calculator\Basic Calculator\obj\Debug\net6.0-windows\Basic Calculator.dll
+C:\All Projs\Basic Calculator\Basic Calculator\obj\Debug\net6.0-windows\refint\Basic Calculator.dll
+C:\All Projs\Basic Calculator\Basic Calculator\obj\Debug\net6.0-windows\Basic Calculator.pdb
+C:\All Projs\Basic Calculator\Basic Calculator\obj\Debug\net6.0-windows\Basic Calculator.genruntimeconfig.cache
+C:\All Projs\Basic Calculator\Basic Calculator\obj\Debug\net6.0-windows\ref\Basic Calculator.dll
